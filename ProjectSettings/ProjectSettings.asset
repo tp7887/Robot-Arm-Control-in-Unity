@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 22
-  productGUID: 05cefa2214b744a45b8d1e723b90b614
+  productGUID: 190e56ea5324f104197d11a7d47e6493
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: robot_arm
+  productName: 3dof
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -681,10 +681,10 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: 4c15d10b-b0e8-47d0-a51d-edaecf8df1a7
+  cloudProjectId: a8f84170-1d7d-4cbd-a76f-5dd83bfc3336
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: robot_arm
+  projectName: 3dof
   organizationId: tp78877877
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
